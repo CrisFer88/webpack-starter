@@ -1,0 +1,9 @@
+html, body{
+    margin: 0;
+    background: -webkit-linear-gradient(bottom right,#f6903d -60%, #e3e3e3, #1b6db4 150%);
+    
+}
+img{
+    width: 50%;
+    height: 50%;
+}
